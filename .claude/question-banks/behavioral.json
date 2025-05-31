@@ -1,0 +1,272 @@
+[
+  {
+    "id": 1,
+    "category": "leadership",
+    "question": "Tell me about a time you led a technical project with unclear requirements",
+    "competencies": ["ambiguity", "leadership", "communication"]
+  },
+  {
+    "id": 2,
+    "category": "conflict",
+    "question": "Describe a situation where you disagreed with a senior engineer's technical approach",
+    "competencies": ["conflict resolution", "influence", "technical judgment"]
+  },
+  {
+    "id": 3,
+    "category": "failure",
+    "question": "Tell me about a time when a system you built failed in production",
+    "competencies": ["accountability", "problem-solving", "learning"]
+  },
+  {
+    "id": 4,
+    "category": "mentorship",
+    "question": "Share an example of when you helped a struggling team member improve their performance",
+    "competencies": ["mentorship", "empathy", "coaching"]
+  },
+  {
+    "id": 5,
+    "category": "innovation",
+    "question": "Describe a time when you proposed a novel technical solution that others were skeptical about",
+    "competencies": ["innovation", "persuasion", "risk-taking"]
+  },
+  {
+    "id": 6,
+    "category": "pressure",
+    "question": "Tell me about a time you had to deliver a critical feature under an impossible deadline",
+    "competencies": ["time management", "prioritization", "stress management"]
+  },
+  {
+    "id": 7,
+    "category": "cross-functional",
+    "question": "Describe how you worked with non-technical stakeholders to define technical requirements",
+    "competencies": ["communication", "translation", "stakeholder management"]
+  },
+  {
+    "id": 8,
+    "category": "trade-offs",
+    "question": "Give an example of when you had to make a difficult trade-off between quality and speed",
+    "competencies": ["decision-making", "pragmatism", "judgment"]
+  },
+  {
+    "id": 9,
+    "category": "scale",
+    "question": "Tell me about a time you had to redesign a system due to unexpected scale",
+    "competencies": ["architecture", "planning", "adaptability"]
+  },
+  {
+    "id": 10,
+    "category": "feedback",
+    "question": "Describe a time when you received harsh technical criticism and how you handled it",
+    "competencies": ["growth mindset", "emotional intelligence", "professionalism"]
+  },
+  {
+    "id": 11,
+    "category": "complexity",
+    "question": "Share an example of how you simplified a complex technical concept for others",
+    "competencies": ["communication", "teaching", "abstraction"]
+  },
+  {
+    "id": 12,
+    "category": "ownership",
+    "question": "Tell me about a time you took ownership of a project outside your normal responsibilities",
+    "competencies": ["initiative", "ownership", "impact"]
+  },
+  {
+    "id": 13,
+    "category": "debugging",
+    "question": "Describe your most challenging debugging experience and how you solved it",
+    "competencies": ["problem-solving", "persistence", "systematic thinking"]
+  },
+  {
+    "id": 14,
+    "category": "influence",
+    "question": "Give an example of when you influenced a team to adopt a new technology or practice",
+    "competencies": ["influence", "change management", "leadership"]
+  },
+  {
+    "id": 15,
+    "category": "mistake",
+    "question": "Tell me about a technical decision you made that you later regretted",
+    "competencies": ["self-awareness", "learning", "humility"]
+  },
+  {
+    "id": 16,
+    "category": "collaboration",
+    "question": "Describe a time when you had to work with a difficult team member",
+    "competencies": ["interpersonal skills", "patience", "conflict resolution"]
+  },
+  {
+    "id": 17,
+    "category": "data-driven",
+    "question": "Share an example of when data contradicted your intuition and how you proceeded",
+    "competencies": ["analytical thinking", "objectivity", "adaptability"]
+  },
+  {
+    "id": 18,
+    "category": "customer-focus",
+    "question": "Tell me about a time you had to balance customer needs with technical constraints",
+    "competencies": ["customer focus", "problem-solving", "communication"]
+  },
+  {
+    "id": 19,
+    "category": "learning",
+    "question": "Describe how you learned a new technology or skill to solve a specific problem",
+    "competencies": ["continuous learning", "adaptability", "resourcefulness"]
+  },
+  {
+    "id": 20,
+    "category": "ethics",
+    "question": "Give an example of when you had to push back on a feature for ethical reasons",
+    "competencies": ["integrity", "courage", "judgment"]
+  },
+  {
+    "id": 21,
+    "category": "delegation",
+    "question": "Tell me about a time you had to delegate critical work you normally would do yourself",
+    "competencies": ["delegation", "trust", "leadership"]
+  },
+  {
+    "id": 22,
+    "category": "ambiguity",
+    "question": "Describe a project where requirements changed significantly mid-development",
+    "competencies": ["flexibility", "communication", "project management"]
+  },
+  {
+    "id": 23,
+    "category": "technical-debt",
+    "question": "Share an example of how you convinced leadership to invest in reducing technical debt",
+    "competencies": ["strategic thinking", "communication", "long-term vision"]
+  },
+  {
+    "id": 24,
+    "category": "crisis",
+    "question": "Tell me about a time you handled a critical production incident",
+    "competencies": ["crisis management", "communication", "problem-solving"]
+  },
+  {
+    "id": 25,
+    "category": "diversity",
+    "question": "Describe how you've contributed to building an inclusive team environment",
+    "competencies": ["inclusion", "empathy", "team building"]
+  },
+  {
+    "id": 26,
+    "category": "prioritization",
+    "question": "Give an example of when you had to say no to a stakeholder request",
+    "competencies": ["prioritization", "communication", "boundary setting"]
+  },
+  {
+    "id": 27,
+    "category": "remote-work",
+    "question": "Tell me about a challenge you faced working with a distributed team",
+    "competencies": ["remote collaboration", "communication", "time management"]
+  },
+  {
+    "id": 28,
+    "category": "performance",
+    "question": "Describe a time when you significantly improved system performance",
+    "competencies": ["optimization", "measurement", "impact"]
+  },
+  {
+    "id": 29,
+    "category": "onboarding",
+    "question": "Share how you helped onboard a new team member effectively",
+    "competencies": ["mentorship", "documentation", "patience"]
+  },
+  {
+    "id": 30,
+    "category": "process",
+    "question": "Tell me about a process you improved or implemented that had lasting impact",
+    "competencies": ["process improvement", "change management", "impact"]
+  },
+  {
+    "id": 31,
+    "category": "negotiation",
+    "question": "Describe a time you had to negotiate technical requirements with product managers",
+    "competencies": ["negotiation", "compromise", "communication"]
+  },
+  {
+    "id": 32,
+    "category": "quality",
+    "question": "Give an example of when you caught a critical issue others missed",
+    "competencies": ["attention to detail", "quality focus", "thoroughness"]
+  },
+  {
+    "id": 33,
+    "category": "documentation",
+    "question": "Tell me about a time your documentation saved the day",
+    "competencies": ["documentation", "foresight", "communication"]
+  },
+  {
+    "id": 34,
+    "category": "estimation",
+    "question": "Describe a time when your project estimation was significantly off and how you handled it",
+    "competencies": ["estimation", "communication", "recovery"]
+  },
+  {
+    "id": 35,
+    "category": "security",
+    "question": "Share an example of when you identified and fixed a security vulnerability",
+    "competencies": ["security mindset", "proactiveness", "responsibility"]
+  },
+  {
+    "id": 36,
+    "category": "automation",
+    "question": "Tell me about a manual process you automated and its impact",
+    "competencies": ["efficiency", "innovation", "impact measurement"]
+  },
+  {
+    "id": 37,
+    "category": "communication",
+    "question": "Describe a time when miscommunication led to a problem and how you resolved it",
+    "competencies": ["communication", "problem resolution", "clarity"]
+  },
+  {
+    "id": 38,
+    "category": "research",
+    "question": "Give an example of a technical investigation you led to solve an unknown problem",
+    "competencies": ["research", "investigation", "persistence"]
+  },
+  {
+    "id": 39,
+    "category": "refactoring",
+    "question": "Tell me about a major refactoring project you led or participated in",
+    "competencies": ["code quality", "planning", "risk management"]
+  },
+  {
+    "id": 40,
+    "category": "work-life-balance",
+    "question": "Describe how you've helped your team maintain work-life balance during crunch times",
+    "competencies": ["leadership", "empathy", "sustainability"]
+  },
+  {
+    "id": 41,
+    "category": "ml-transition",
+    "question": "Tell me about a project where you applied ML to solve a traditional software problem",
+    "competencies": ["innovation", "ML application", "problem-solving"]
+  },
+  {
+    "id": 42,
+    "category": "ml-failure",
+    "question": "Describe a time when a machine learning model didn't perform as expected in production",
+    "competencies": ["ML debugging", "adaptability", "communication"]
+  },
+  {
+    "id": 43,
+    "category": "ml-ethics",
+    "question": "Share an example of addressing bias or fairness issues in an ML system",
+    "competencies": ["ML ethics", "fairness", "social responsibility"]
+  },
+  {
+    "id": 44,
+    "category": "ml-stakeholder",
+    "question": "Tell me about explaining ML model decisions to non-technical stakeholders",
+    "competencies": ["ML explainability", "communication", "teaching"]
+  },
+  {
+    "id": 45,
+    "category": "ml-infrastructure",
+    "question": "Describe a challenge you faced deploying or scaling ML models in production",
+    "competencies": ["MLOps", "infrastructure", "problem-solving"]
+  }
+]

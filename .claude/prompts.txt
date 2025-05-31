@@ -1,0 +1,51 @@
+in the .claude/prompts/daily-interview-prep-generator.md, are we providing instruction to the agent where to source the questions? if so, how? 
+
+
+============
+
+put a prompt in .claude/prompts that will instruct an agent to create the daily files. 
+
+use the .claude/generalized_prompt_engineering_guide.md for a guide on how to create a prompt. 
+
+
+
+
+==========
+
+it would benefit us to find examples for our learning framework and content to fille it with. give me a prompt to have an agent help us find github repos as examples of how to structure our learning framework and scrapte of knowledge content like questions and answers. the deliverable should be a length of github repos you can review. 
+
+
+=========
+
+can we merge these files? does it make sense to have both? how do these file benefit our process?
+/Users/jayce.tan/Code/JT/2025_ML_Level_Up/CLAUDE.local.md
+/Users/jayce.tan/Code/JT/2025_ML_Level_Up/CLAUDE.md
+
+
+can we move memory-bank to the .claude dir and update the to account for this? 
+/Users/jayce.tan/Code/JT/2025_ML_Level_Up/CLAUDE.local.md
+/Users/jayce.tan/Code/JT/2025_ML_Level_Up/CLAUDE.md
+
+
+=========
+
+1 i would like the agent to create a directory for the underlying day. there should individual files for 1 blind 75 
+question, one machine learning system design question, two behavioral questions, and one machine learning interview question
+
+2 c this is a great idea. at the end of each day, the agent will report my perofrmance and track over time. i will be graded 1-5 based on my responses. i would like to track these metrics over time. 
+
+3 we will be tracking answers and performance as previously discussed. 
+
+4 c
+
+5 a. it should ensure i am using python at an expert level
+/Users/jayce.tan/Code/JT/2025_ML_Level_Up/.claude/generalized_prompt_engineering_guide.md
+=======
+
+the puroose of this project is to help me prepare to transition from swe to mlops engineer or mle. we are setting a framework so that everyday an agent will quiz me on 1 blind 75 
+  question, one machine learning system design question, two behavioral questions, and one machine learning interview question. \
+  \
+  Iteratively ask minimal clarifying questions (yes/no or multiple-choice format) to clarify ambiguity before proceeding. Provide recommendations where helpful. Never make assumptions 
+  without explicit approval.\
+  \
+  init memory bank

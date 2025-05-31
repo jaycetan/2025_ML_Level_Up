@@ -1,0 +1,322 @@
+[
+  {
+    "id": 1,
+    "topic": "gradient descent",
+    "subtopics": ["batch", "stochastic", "mini-batch", "momentum", "Adam"],
+    "difficulty": "medium",
+    "implementation_required": true,
+    "mlops_connection": "hyperparameter tuning in production"
+  },
+  {
+    "id": 2,
+    "topic": "overfitting and regularization",
+    "subtopics": ["L1/L2 regularization", "dropout", "early stopping", "data augmentation"],
+    "difficulty": "easy",
+    "implementation_required": true,
+    "mlops_connection": "model monitoring and retraining triggers"
+  },
+  {
+    "id": 3,
+    "topic": "bias-variance tradeoff",
+    "subtopics": ["decomposition", "model complexity", "ensemble methods"],
+    "difficulty": "medium",
+    "implementation_required": false,
+    "mlops_connection": "model selection in A/B tests"
+  },
+  {
+    "id": 4,
+    "topic": "evaluation metrics",
+    "subtopics": ["precision/recall", "ROC/AUC", "F1 score", "business metrics"],
+    "difficulty": "easy",
+    "implementation_required": true,
+    "mlops_connection": "production monitoring and alerts"
+  },
+  {
+    "id": 5,
+    "topic": "feature engineering",
+    "subtopics": ["scaling", "encoding", "feature selection", "dimensionality reduction"],
+    "difficulty": "medium",
+    "implementation_required": true,
+    "mlops_connection": "feature stores and pipelines"
+  },
+  {
+    "id": 6,
+    "topic": "ensemble methods",
+    "subtopics": ["bagging", "boosting", "stacking", "voting"],
+    "difficulty": "medium",
+    "implementation_required": true,
+    "mlops_connection": "model serving and latency considerations"
+  },
+  {
+    "id": 7,
+    "topic": "neural network fundamentals",
+    "subtopics": ["backpropagation", "activation functions", "weight initialization"],
+    "difficulty": "medium",
+    "implementation_required": true,
+    "mlops_connection": "distributed training infrastructure"
+  },
+  {
+    "id": 8,
+    "topic": "convolutional neural networks",
+    "subtopics": ["convolution", "pooling", "architectures", "transfer learning"],
+    "difficulty": "hard",
+    "implementation_required": true,
+    "mlops_connection": "model compression and edge deployment"
+  },
+  {
+    "id": 9,
+    "topic": "recurrent neural networks",
+    "subtopics": ["LSTM", "GRU", "attention", "sequence-to-sequence"],
+    "difficulty": "hard",
+    "implementation_required": true,
+    "mlops_connection": "streaming inference pipelines"
+  },
+  {
+    "id": 10,
+    "topic": "transformers",
+    "subtopics": ["self-attention", "positional encoding", "BERT", "GPT"],
+    "difficulty": "hard",
+    "implementation_required": false,
+    "mlops_connection": "large model serving and optimization"
+  },
+  {
+    "id": 11,
+    "topic": "clustering algorithms",
+    "subtopics": ["k-means", "DBSCAN", "hierarchical", "evaluation metrics"],
+    "difficulty": "medium",
+    "implementation_required": true,
+    "mlops_connection": "unsupervised anomaly detection systems"
+  },
+  {
+    "id": 12,
+    "topic": "dimensionality reduction",
+    "subtopics": ["PCA", "t-SNE", "UMAP", "autoencoders"],
+    "difficulty": "medium",
+    "implementation_required": true,
+    "mlops_connection": "feature preprocessing pipelines"
+  },
+  {
+    "id": 13,
+    "topic": "time series analysis",
+    "subtopics": ["ARIMA", "seasonality", "stationarity", "forecasting"],
+    "difficulty": "medium",
+    "implementation_required": true,
+    "mlops_connection": "real-time prediction systems"
+  },
+  {
+    "id": 14,
+    "topic": "A/B testing for ML",
+    "subtopics": ["hypothesis testing", "sample size", "multiple comparisons", "bandits"],
+    "difficulty": "medium",
+    "implementation_required": false,
+    "mlops_connection": "experimentation platforms"
+  },
+  {
+    "id": 15,
+    "topic": "causal inference",
+    "subtopics": ["RCT", "propensity scores", "instrumental variables", "DID"],
+    "difficulty": "hard",
+    "implementation_required": false,
+    "mlops_connection": "impact measurement in production"
+  },
+  {
+    "id": 16,
+    "topic": "reinforcement learning basics",
+    "subtopics": ["MDP", "Q-learning", "policy gradient", "exploration vs exploitation"],
+    "difficulty": "hard",
+    "implementation_required": true,
+    "mlops_connection": "online learning systems"
+  },
+  {
+    "id": 17,
+    "topic": "model interpretability",
+    "subtopics": ["SHAP", "LIME", "feature importance", "partial dependence"],
+    "difficulty": "medium",
+    "implementation_required": true,
+    "mlops_connection": "model governance and compliance"
+  },
+  {
+    "id": 18,
+    "topic": "handling imbalanced data",
+    "subtopics": ["SMOTE", "undersampling", "cost-sensitive learning", "threshold tuning"],
+    "difficulty": "medium",
+    "implementation_required": true,
+    "mlops_connection": "production threshold optimization"
+  },
+  {
+    "id": 19,
+    "topic": "cross-validation strategies",
+    "subtopics": ["k-fold", "stratified", "time series split", "nested CV"],
+    "difficulty": "easy",
+    "implementation_required": true,
+    "mlops_connection": "model validation pipelines"
+  },
+  {
+    "id": 20,
+    "topic": "Bayesian methods",
+    "subtopics": ["Bayes theorem", "prior/posterior", "MCMC", "variational inference"],
+    "difficulty": "hard",
+    "implementation_required": false,
+    "mlops_connection": "uncertainty quantification in production"
+  },
+  {
+    "id": 21,
+    "topic": "recommendation systems",
+    "subtopics": ["collaborative filtering", "matrix factorization", "deep learning approaches"],
+    "difficulty": "medium",
+    "implementation_required": true,
+    "mlops_connection": "real-time personalization infrastructure"
+  },
+  {
+    "id": 22,
+    "topic": "natural language processing",
+    "subtopics": ["tokenization", "embeddings", "named entity recognition", "sentiment analysis"],
+    "difficulty": "medium",
+    "implementation_required": true,
+    "mlops_connection": "NLP pipeline deployment"
+  },
+  {
+    "id": 23,
+    "topic": "graph neural networks",
+    "subtopics": ["message passing", "GCN", "GraphSAGE", "applications"],
+    "difficulty": "hard",
+    "implementation_required": false,
+    "mlops_connection": "graph-based feature engineering"
+  },
+  {
+    "id": 24,
+    "topic": "multi-task learning",
+    "subtopics": ["hard/soft parameter sharing", "task weighting", "gradient conflicts"],
+    "difficulty": "hard",
+    "implementation_required": false,
+    "mlops_connection": "unified model serving"
+  },
+  {
+    "id": 25,
+    "topic": "transfer learning",
+    "subtopics": ["fine-tuning", "feature extraction", "domain adaptation"],
+    "difficulty": "medium",
+    "implementation_required": true,
+    "mlops_connection": "model versioning and updates"
+  },
+  {
+    "id": 26,
+    "topic": "data drift and concept drift",
+    "subtopics": ["detection methods", "statistical tests", "adaptation strategies"],
+    "difficulty": "medium",
+    "implementation_required": true,
+    "mlops_connection": "monitoring and alerting systems"
+  },
+  {
+    "id": 27,
+    "topic": "model compression",
+    "subtopics": ["pruning", "quantization", "knowledge distillation", "mobile deployment"],
+    "difficulty": "hard",
+    "implementation_required": true,
+    "mlops_connection": "edge deployment optimization"
+  },
+  {
+    "id": 28,
+    "topic": "federated learning",
+    "subtopics": ["privacy", "aggregation methods", "communication efficiency"],
+    "difficulty": "hard",
+    "implementation_required": false,
+    "mlops_connection": "distributed learning infrastructure"
+  },
+  {
+    "id": 29,
+    "topic": "adversarial machine learning",
+    "subtopics": ["attacks", "defenses", "robustness", "security"],
+    "difficulty": "hard",
+    "implementation_required": true,
+    "mlops_connection": "model security in production"
+  },
+  {
+    "id": 30,
+    "topic": "AutoML",
+    "subtopics": ["hyperparameter optimization", "neural architecture search", "automated feature engineering"],
+    "difficulty": "medium",
+    "implementation_required": false,
+    "mlops_connection": "automated ML pipelines"
+  },
+  {
+    "id": 31,
+    "topic": "probabilistic graphical models",
+    "subtopics": ["Bayesian networks", "Markov random fields", "inference algorithms"],
+    "difficulty": "hard",
+    "implementation_required": false,
+    "mlops_connection": "structured prediction systems"
+  },
+  {
+    "id": 32,
+    "topic": "optimization algorithms",
+    "subtopics": ["convex optimization", "genetic algorithms", "simulated annealing"],
+    "difficulty": "medium",
+    "implementation_required": true,
+    "mlops_connection": "hyperparameter tuning services"
+  },
+  {
+    "id": 33,
+    "topic": "anomaly detection",
+    "subtopics": ["statistical methods", "isolation forest", "autoencoders", "one-class SVM"],
+    "difficulty": "medium",
+    "implementation_required": true,
+    "mlops_connection": "real-time monitoring systems"
+  },
+  {
+    "id": 34,
+    "topic": "survival analysis",
+    "subtopics": ["Kaplan-Meier", "Cox regression", "time-to-event modeling"],
+    "difficulty": "hard",
+    "implementation_required": false,
+    "mlops_connection": "customer churn prediction systems"
+  },
+  {
+    "id": 35,
+    "topic": "multi-label classification",
+    "subtopics": ["problem transformation", "algorithm adaptation", "evaluation metrics"],
+    "difficulty": "medium",
+    "implementation_required": true,
+    "mlops_connection": "content tagging systems"
+  },
+  {
+    "id": 36,
+    "topic": "active learning",
+    "subtopics": ["query strategies", "uncertainty sampling", "human-in-the-loop"],
+    "difficulty": "medium",
+    "implementation_required": false,
+    "mlops_connection": "labeling pipeline optimization"
+  },
+  {
+    "id": 37,
+    "topic": "meta-learning",
+    "subtopics": ["few-shot learning", "MAML", "prototypical networks"],
+    "difficulty": "hard",
+    "implementation_required": false,
+    "mlops_connection": "rapid model adaptation"
+  },
+  {
+    "id": 38,
+    "topic": "explainable AI",
+    "subtopics": ["local vs global", "model-agnostic methods", "counterfactuals"],
+    "difficulty": "medium",
+    "implementation_required": true,
+    "mlops_connection": "model governance and debugging"
+  },
+  {
+    "id": 39,
+    "topic": "fairness in ML",
+    "subtopics": ["bias metrics", "debiasing techniques", "fairness constraints"],
+    "difficulty": "medium",
+    "implementation_required": true,
+    "mlops_connection": "fairness monitoring in production"
+  },
+  {
+    "id": 40,
+    "topic": "privacy-preserving ML",
+    "subtopics": ["differential privacy", "secure multi-party computation", "homomorphic encryption"],
+    "difficulty": "hard",
+    "implementation_required": false,
+    "mlops_connection": "privacy-compliant ML systems"
+  }
+]

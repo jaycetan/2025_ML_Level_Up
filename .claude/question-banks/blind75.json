@@ -1,0 +1,527 @@
+[
+  {
+    "id": 1,
+    "title": "Two Sum",
+    "category": "Array",
+    "difficulty": "Easy",
+    "topics": ["hash table", "array"]
+  },
+  {
+    "id": 2,
+    "title": "Best Time to Buy and Sell Stock",
+    "category": "Array",
+    "difficulty": "Easy",
+    "topics": ["array", "dynamic programming"]
+  },
+  {
+    "id": 3,
+    "title": "Contains Duplicate",
+    "category": "Array",
+    "difficulty": "Easy",
+    "topics": ["hash table", "array", "sorting"]
+  },
+  {
+    "id": 4,
+    "title": "Product of Array Except Self",
+    "category": "Array",
+    "difficulty": "Medium",
+    "topics": ["array", "prefix sum"]
+  },
+  {
+    "id": 5,
+    "title": "Maximum Subarray",
+    "category": "Array",
+    "difficulty": "Medium",
+    "topics": ["array", "divide and conquer", "dynamic programming"]
+  },
+  {
+    "id": 6,
+    "title": "Maximum Product Subarray",
+    "category": "Array",
+    "difficulty": "Medium",
+    "topics": ["array", "dynamic programming"]
+  },
+  {
+    "id": 7,
+    "title": "Find Minimum in Rotated Sorted Array",
+    "category": "Array",
+    "difficulty": "Medium",
+    "topics": ["array", "binary search"]
+  },
+  {
+    "id": 8,
+    "title": "Search in Rotated Sorted Array",
+    "category": "Array",
+    "difficulty": "Medium",
+    "topics": ["array", "binary search"]
+  },
+  {
+    "id": 9,
+    "title": "3Sum",
+    "category": "Array",
+    "difficulty": "Medium",
+    "topics": ["array", "two pointers", "sorting"]
+  },
+  {
+    "id": 10,
+    "title": "Container With Most Water",
+    "category": "Array",
+    "difficulty": "Medium",
+    "topics": ["array", "two pointers", "greedy"]
+  },
+  {
+    "id": 11,
+    "title": "Sum of Two Integers",
+    "category": "Binary",
+    "difficulty": "Medium",
+    "topics": ["bit manipulation", "math"]
+  },
+  {
+    "id": 12,
+    "title": "Number of 1 Bits",
+    "category": "Binary",
+    "difficulty": "Easy",
+    "topics": ["bit manipulation"]
+  },
+  {
+    "id": 13,
+    "title": "Counting Bits",
+    "category": "Binary",
+    "difficulty": "Easy",
+    "topics": ["bit manipulation", "dynamic programming"]
+  },
+  {
+    "id": 14,
+    "title": "Missing Number",
+    "category": "Binary",
+    "difficulty": "Easy",
+    "topics": ["array", "hash table", "math", "bit manipulation"]
+  },
+  {
+    "id": 15,
+    "title": "Reverse Bits",
+    "category": "Binary",
+    "difficulty": "Easy",
+    "topics": ["bit manipulation", "divide and conquer"]
+  },
+  {
+    "id": 16,
+    "title": "Climbing Stairs",
+    "category": "Dynamic Programming",
+    "difficulty": "Easy",
+    "topics": ["math", "dynamic programming", "memoization"]
+  },
+  {
+    "id": 17,
+    "title": "Coin Change",
+    "category": "Dynamic Programming",
+    "difficulty": "Medium",
+    "topics": ["array", "dynamic programming", "breadth-first search"]
+  },
+  {
+    "id": 18,
+    "title": "Longest Increasing Subsequence",
+    "category": "Dynamic Programming",
+    "difficulty": "Medium",
+    "topics": ["array", "binary search", "dynamic programming"]
+  },
+  {
+    "id": 19,
+    "title": "Longest Common Subsequence",
+    "category": "Dynamic Programming",
+    "difficulty": "Medium",
+    "topics": ["string", "dynamic programming"]
+  },
+  {
+    "id": 20,
+    "title": "Word Break",
+    "category": "Dynamic Programming",
+    "difficulty": "Medium",
+    "topics": ["hash table", "string", "dynamic programming", "trie", "memoization"]
+  },
+  {
+    "id": 21,
+    "title": "Combination Sum IV",
+    "category": "Dynamic Programming",
+    "difficulty": "Medium",
+    "topics": ["array", "dynamic programming"]
+  },
+  {
+    "id": 22,
+    "title": "House Robber",
+    "category": "Dynamic Programming",
+    "difficulty": "Medium",
+    "topics": ["array", "dynamic programming"]
+  },
+  {
+    "id": 23,
+    "title": "House Robber II",
+    "category": "Dynamic Programming",
+    "difficulty": "Medium",
+    "topics": ["array", "dynamic programming"]
+  },
+  {
+    "id": 24,
+    "title": "Decode Ways",
+    "category": "Dynamic Programming",
+    "difficulty": "Medium",
+    "topics": ["string", "dynamic programming"]
+  },
+  {
+    "id": 25,
+    "title": "Unique Paths",
+    "category": "Dynamic Programming",
+    "difficulty": "Medium",
+    "topics": ["math", "dynamic programming", "combinatorics"]
+  },
+  {
+    "id": 26,
+    "title": "Jump Game",
+    "category": "Dynamic Programming",
+    "difficulty": "Medium",
+    "topics": ["array", "dynamic programming", "greedy"]
+  },
+  {
+    "id": 27,
+    "title": "Clone Graph",
+    "category": "Graph",
+    "difficulty": "Medium",
+    "topics": ["hash table", "breadth-first search", "depth-first search", "graph"]
+  },
+  {
+    "id": 28,
+    "title": "Course Schedule",
+    "category": "Graph",
+    "difficulty": "Medium",
+    "topics": ["depth-first search", "breadth-first search", "graph", "topological sort"]
+  },
+  {
+    "id": 29,
+    "title": "Pacific Atlantic Water Flow",
+    "category": "Graph",
+    "difficulty": "Medium",
+    "topics": ["array", "depth-first search", "breadth-first search", "matrix"]
+  },
+  {
+    "id": 30,
+    "title": "Number of Islands",
+    "category": "Graph",
+    "difficulty": "Medium",
+    "topics": ["array", "depth-first search", "breadth-first search", "union find", "matrix"]
+  },
+  {
+    "id": 31,
+    "title": "Longest Consecutive Sequence",
+    "category": "Graph",
+    "difficulty": "Medium",
+    "topics": ["array", "hash table", "union find"]
+  },
+  {
+    "id": 32,
+    "title": "Alien Dictionary",
+    "category": "Graph",
+    "difficulty": "Hard",
+    "topics": ["array", "string", "depth-first search", "breadth-first search", "graph", "topological sort"]
+  },
+  {
+    "id": 33,
+    "title": "Graph Valid Tree",
+    "category": "Graph",
+    "difficulty": "Medium",
+    "topics": ["depth-first search", "breadth-first search", "union find", "graph"]
+  },
+  {
+    "id": 34,
+    "title": "Number of Connected Components in an Undirected Graph",
+    "category": "Graph",
+    "difficulty": "Medium",
+    "topics": ["depth-first search", "breadth-first search", "union find", "graph"]
+  },
+  {
+    "id": 35,
+    "title": "Insert Interval",
+    "category": "Interval",
+    "difficulty": "Medium",
+    "topics": ["array"]
+  },
+  {
+    "id": 36,
+    "title": "Merge Intervals",
+    "category": "Interval",
+    "difficulty": "Medium",
+    "topics": ["array", "sorting"]
+  },
+  {
+    "id": 37,
+    "title": "Non-overlapping Intervals",
+    "category": "Interval",
+    "difficulty": "Medium",
+    "topics": ["array", "dynamic programming", "greedy", "sorting"]
+  },
+  {
+    "id": 38,
+    "title": "Meeting Rooms",
+    "category": "Interval",
+    "difficulty": "Easy",
+    "topics": ["array", "sorting"]
+  },
+  {
+    "id": 39,
+    "title": "Meeting Rooms II",
+    "category": "Interval",
+    "difficulty": "Medium",
+    "topics": ["array", "two pointers", "greedy", "sorting", "heap", "prefix sum"]
+  },
+  {
+    "id": 40,
+    "title": "Reverse Linked List",
+    "category": "Linked List",
+    "difficulty": "Easy",
+    "topics": ["linked list", "recursion"]
+  },
+  {
+    "id": 41,
+    "title": "Merge Two Sorted Lists",
+    "category": "Linked List",
+    "difficulty": "Easy",
+    "topics": ["linked list", "recursion"]
+  },
+  {
+    "id": 42,
+    "title": "Reorder List",
+    "category": "Linked List",
+    "difficulty": "Medium",
+    "topics": ["linked list", "two pointers", "stack", "recursion"]
+  },
+  {
+    "id": 43,
+    "title": "Remove Nth Node From End of List",
+    "category": "Linked List",
+    "difficulty": "Medium",
+    "topics": ["linked list", "two pointers"]
+  },
+  {
+    "id": 44,
+    "title": "Linked List Cycle",
+    "category": "Linked List",
+    "difficulty": "Easy",
+    "topics": ["hash table", "linked list", "two pointers"]
+  },
+  {
+    "id": 45,
+    "title": "Merge k Sorted Lists",
+    "category": "Linked List",
+    "difficulty": "Hard",
+    "topics": ["linked list", "divide and conquer", "heap", "merge sort"]
+  },
+  {
+    "id": 46,
+    "title": "Set Matrix Zeroes",
+    "category": "Matrix",
+    "difficulty": "Medium",
+    "topics": ["array", "hash table", "matrix"]
+  },
+  {
+    "id": 47,
+    "title": "Spiral Matrix",
+    "category": "Matrix",
+    "difficulty": "Medium",
+    "topics": ["array", "matrix", "simulation"]
+  },
+  {
+    "id": 48,
+    "title": "Rotate Image",
+    "category": "Matrix",
+    "difficulty": "Medium",
+    "topics": ["array", "math", "matrix"]
+  },
+  {
+    "id": 49,
+    "title": "Word Search",
+    "category": "Matrix",
+    "difficulty": "Medium",
+    "topics": ["array", "backtracking", "matrix"]
+  },
+  {
+    "id": 50,
+    "title": "Longest Substring Without Repeating Characters",
+    "category": "String",
+    "difficulty": "Medium",
+    "topics": ["hash table", "string", "sliding window"]
+  },
+  {
+    "id": 51,
+    "title": "Longest Repeating Character Replacement",
+    "category": "String",
+    "difficulty": "Medium",
+    "topics": ["hash table", "string", "sliding window"]
+  },
+  {
+    "id": 52,
+    "title": "Minimum Window Substring",
+    "category": "String",
+    "difficulty": "Hard",
+    "topics": ["hash table", "string", "sliding window"]
+  },
+  {
+    "id": 53,
+    "title": "Valid Anagram",
+    "category": "String",
+    "difficulty": "Easy",
+    "topics": ["hash table", "string", "sorting"]
+  },
+  {
+    "id": 54,
+    "title": "Group Anagrams",
+    "category": "String",
+    "difficulty": "Medium",
+    "topics": ["array", "hash table", "string", "sorting"]
+  },
+  {
+    "id": 55,
+    "title": "Valid Parentheses",
+    "category": "String",
+    "difficulty": "Easy",
+    "topics": ["string", "stack"]
+  },
+  {
+    "id": 56,
+    "title": "Valid Palindrome",
+    "category": "String",
+    "difficulty": "Easy",
+    "topics": ["two pointers", "string"]
+  },
+  {
+    "id": 57,
+    "title": "Longest Palindromic Substring",
+    "category": "String",
+    "difficulty": "Medium",
+    "topics": ["string", "dynamic programming"]
+  },
+  {
+    "id": 58,
+    "title": "Palindromic Substrings",
+    "category": "String",
+    "difficulty": "Medium",
+    "topics": ["string", "dynamic programming"]
+  },
+  {
+    "id": 59,
+    "title": "Encode and Decode Strings",
+    "category": "String",
+    "difficulty": "Medium",
+    "topics": ["array", "string"]
+  },
+  {
+    "id": 60,
+    "title": "Maximum Depth of Binary Tree",
+    "category": "Tree",
+    "difficulty": "Easy",
+    "topics": ["tree", "depth-first search", "breadth-first search", "binary tree"]
+  },
+  {
+    "id": 61,
+    "title": "Same Tree",
+    "category": "Tree",
+    "difficulty": "Easy",
+    "topics": ["tree", "depth-first search", "breadth-first search", "binary tree"]
+  },
+  {
+    "id": 62,
+    "title": "Invert Binary Tree",
+    "category": "Tree",
+    "difficulty": "Easy",
+    "topics": ["tree", "depth-first search", "breadth-first search", "binary tree"]
+  },
+  {
+    "id": 63,
+    "title": "Binary Tree Maximum Path Sum",
+    "category": "Tree",
+    "difficulty": "Hard",
+    "topics": ["dynamic programming", "tree", "depth-first search", "binary tree"]
+  },
+  {
+    "id": 64,
+    "title": "Binary Tree Level Order Traversal",
+    "category": "Tree",
+    "difficulty": "Medium",
+    "topics": ["tree", "breadth-first search", "binary tree"]
+  },
+  {
+    "id": 65,
+    "title": "Serialize and Deserialize Binary Tree",
+    "category": "Tree",
+    "difficulty": "Hard",
+    "topics": ["string", "tree", "depth-first search", "breadth-first search", "design", "binary tree"]
+  },
+  {
+    "id": 66,
+    "title": "Subtree of Another Tree",
+    "category": "Tree",
+    "difficulty": "Easy",
+    "topics": ["tree", "depth-first search", "string matching", "binary tree", "hash function"]
+  },
+  {
+    "id": 67,
+    "title": "Construct Binary Tree from Preorder and Inorder Traversal",
+    "category": "Tree",
+    "difficulty": "Medium",
+    "topics": ["array", "hash table", "divide and conquer", "tree", "binary tree"]
+  },
+  {
+    "id": 68,
+    "title": "Validate Binary Search Tree",
+    "category": "Tree",
+    "difficulty": "Medium",
+    "topics": ["tree", "depth-first search", "binary search tree", "binary tree"]
+  },
+  {
+    "id": 69,
+    "title": "Kth Smallest Element in a BST",
+    "category": "Tree",
+    "difficulty": "Medium",
+    "topics": ["tree", "depth-first search", "binary search tree", "binary tree"]
+  },
+  {
+    "id": 70,
+    "title": "Lowest Common Ancestor of a Binary Search Tree",
+    "category": "Tree",
+    "difficulty": "Medium",
+    "topics": ["tree", "depth-first search", "binary search tree", "binary tree"]
+  },
+  {
+    "id": 71,
+    "title": "Implement Trie (Prefix Tree)",
+    "category": "Tree",
+    "difficulty": "Medium",
+    "topics": ["hash table", "string", "design", "trie"]
+  },
+  {
+    "id": 72,
+    "title": "Add and Search Word - Data structure design",
+    "category": "Tree",
+    "difficulty": "Medium",
+    "topics": ["string", "depth-first search", "design", "trie"]
+  },
+  {
+    "id": 73,
+    "title": "Word Search II",
+    "category": "Tree",
+    "difficulty": "Hard",
+    "topics": ["array", "string", "backtracking", "trie", "matrix"]
+  },
+  {
+    "id": 74,
+    "title": "Top K Frequent Elements",
+    "category": "Heap",
+    "difficulty": "Medium",
+    "topics": ["array", "hash table", "divide and conquer", "sorting", "heap", "bucket sort", "counting", "quickselect"]
+  },
+  {
+    "id": 75,
+    "title": "Find Median from Data Stream",
+    "category": "Heap",
+    "difficulty": "Hard",
+    "topics": ["two pointers", "design", "sorting", "heap", "data stream"]
+  }
+]

@@ -1,0 +1,247 @@
+[
+  {
+    "id": 1,
+    "company": "Netflix",
+    "system": "recommendation",
+    "constraints": ["100M+ users", "real-time personalization", "cold start problem", "multi-device"],
+    "focus_areas": ["collaborative filtering", "content-based filtering", "hybrid approaches", "deep learning"]
+  },
+  {
+    "id": 2,
+    "company": "Uber",
+    "system": "surge pricing",
+    "constraints": ["geo-spatial data", "real-time pricing", "fairness", "supply-demand balance"],
+    "focus_areas": ["demand forecasting", "pricing algorithms", "A/B testing", "model monitoring"]
+  },
+  {
+    "id": 3,
+    "company": "Airbnb",
+    "system": "search ranking",
+    "constraints": ["personalization", "diversity", "host-guest matching", "seasonal patterns"],
+    "focus_areas": ["learning to rank", "embedding models", "multi-objective optimization", "online learning"]
+  },
+  {
+    "id": 4,
+    "company": "LinkedIn",
+    "system": "job recommendations",
+    "constraints": ["bidirectional matching", "skill extraction", "career trajectory", "recruiter tools"],
+    "focus_areas": ["NLP for job descriptions", "graph neural networks", "temporal modeling", "explainability"]
+  },
+  {
+    "id": 5,
+    "company": "Spotify",
+    "system": "discover weekly",
+    "constraints": ["30 songs per week", "diversity vs relevance", "new music discovery", "global scale"],
+    "focus_areas": ["audio embeddings", "collaborative filtering", "exploration vs exploitation", "playlist generation"]
+  },
+  {
+    "id": 6,
+    "company": "Amazon",
+    "system": "fraud detection",
+    "constraints": ["< 100ms latency", "false positive cost", "adversarial actors", "global patterns"],
+    "focus_areas": ["anomaly detection", "graph analysis", "real-time features", "model updates"]
+  },
+  {
+    "id": 7,
+    "company": "Google",
+    "system": "ad click prediction",
+    "constraints": ["billions of requests/day", "user privacy", "advertiser ROI", "real-time bidding"],
+    "focus_areas": ["CTR prediction", "feature engineering", "online learning", "calibration"]
+  },
+  {
+    "id": 8,
+    "company": "Facebook",
+    "system": "news feed ranking",
+    "constraints": ["engagement vs quality", "echo chambers", "real-time updates", "multiple content types"],
+    "focus_areas": ["multi-task learning", "user modeling", "content understanding", "fairness"]
+  },
+  {
+    "id": 9,
+    "company": "Twitter",
+    "system": "trending topics",
+    "constraints": ["real-time detection", "spam filtering", "global vs local trends", "breaking news"],
+    "focus_areas": ["time series analysis", "NLP", "anomaly detection", "geographic clustering"]
+  },
+  {
+    "id": 10,
+    "company": "DoorDash",
+    "system": "delivery time prediction",
+    "constraints": ["weather impact", "restaurant delays", "dasher availability", "traffic patterns"],
+    "focus_areas": ["multi-stage prediction", "geospatial models", "uncertainty quantification", "real-time updates"]
+  },
+  {
+    "id": 11,
+    "company": "Stripe",
+    "system": "payment fraud detection",
+    "constraints": ["millisecond latency", "global regulations", "merchant diversity", "evolving fraud patterns"],
+    "focus_areas": ["sequence modeling", "graph networks", "rule engines", "explainable AI"]
+  },
+  {
+    "id": 12,
+    "company": "Pinterest",
+    "system": "visual search",
+    "constraints": ["image understanding", "shopping intent", "similar vs complementary", "mobile optimization"],
+    "focus_areas": ["computer vision", "multimodal embeddings", "vector search", "edge deployment"]
+  },
+  {
+    "id": 13,
+    "company": "Slack",
+    "system": "smart notifications",
+    "constraints": ["user preferences", "message importance", "time zones", "notification fatigue"],
+    "focus_areas": ["user behavior modeling", "NLP for urgency", "reinforcement learning", "personalization"]
+  },
+  {
+    "id": 14,
+    "company": "Zoom",
+    "system": "video quality optimization",
+    "constraints": ["bandwidth adaptation", "multiple participants", "screen sharing", "mobile devices"],
+    "focus_areas": ["real-time ML", "network prediction", "resource allocation", "quality metrics"]
+  },
+  {
+    "id": 15,
+    "company": "Instacart",
+    "system": "inventory prediction",
+    "constraints": ["perishable goods", "store variations", "seasonal items", "substitutions"],
+    "focus_areas": ["demand forecasting", "supply chain ML", "recommendation systems", "pricing optimization"]
+  },
+  {
+    "id": 16,
+    "company": "Robinhood",
+    "system": "risk management",
+    "constraints": ["market volatility", "regulatory compliance", "user education", "real-time decisions"],
+    "focus_areas": ["portfolio analysis", "anomaly detection", "margin calculations", "behavioral finance"]
+  },
+  {
+    "id": 17,
+    "company": "Duolingo",
+    "system": "adaptive learning",
+    "constraints": ["skill progression", "engagement", "spaced repetition", "multiple languages"],
+    "focus_areas": ["knowledge tracing", "curriculum learning", "gamification", "A/B testing"]
+  },
+  {
+    "id": 18,
+    "company": "TikTok",
+    "system": "content moderation",
+    "constraints": ["scale", "cultural sensitivity", "real-time processing", "appeals process"],
+    "focus_areas": ["multimodal understanding", "few-shot learning", "human-in-the-loop", "fairness"]
+  },
+  {
+    "id": 19,
+    "company": "Lyft",
+    "system": "driver-rider matching",
+    "constraints": ["wait time", "driver utilization", "surge areas", "shared rides"],
+    "focus_areas": ["optimization algorithms", "demand prediction", "pricing strategy", "route optimization"]
+  },
+  {
+    "id": 20,
+    "company": "GitHub",
+    "system": "code recommendation",
+    "constraints": ["language diversity", "security", "performance", "context understanding"],
+    "focus_areas": ["code embeddings", "transformer models", "static analysis", "user privacy"]
+  },
+  {
+    "id": 21,
+    "company": "Salesforce",
+    "system": "lead scoring",
+    "constraints": ["B2B context", "long sales cycles", "data sparsity", "explainability"],
+    "focus_areas": ["survival analysis", "account-based modeling", "feature engineering", "CRM integration"]
+  },
+  {
+    "id": 22,
+    "company": "Walmart",
+    "system": "demand forecasting",
+    "constraints": ["thousands of stores", "local events", "supply chain", "pricing changes"],
+    "focus_areas": ["hierarchical forecasting", "external data", "inventory optimization", "promotion effects"]
+  },
+  {
+    "id": 23,
+    "company": "Microsoft Teams",
+    "system": "meeting insights",
+    "constraints": ["privacy", "multiple speakers", "real-time processing", "action items"],
+    "focus_areas": ["speech recognition", "NLP summarization", "speaker diarization", "sentiment analysis"]
+  },
+  {
+    "id": 24,
+    "company": "Coinbase",
+    "system": "crypto price prediction",
+    "constraints": ["high volatility", "market manipulation", "regulatory news", "24/7 trading"],
+    "focus_areas": ["time series forecasting", "sentiment analysis", "anomaly detection", "risk modeling"]
+  },
+  {
+    "id": 25,
+    "company": "ESPN",
+    "system": "sports highlights generation",
+    "constraints": ["real-time processing", "multiple sports", "exciting moments", "personalization"],
+    "focus_areas": ["video understanding", "event detection", "automated editing", "commentary analysis"]
+  },
+  {
+    "id": 26,
+    "company": "Peloton",
+    "system": "workout recommendation",
+    "constraints": ["fitness levels", "equipment available", "instructor matching", "progress tracking"],
+    "focus_areas": ["user segmentation", "time series health data", "content diversity", "social features"]
+  },
+  {
+    "id": 27,
+    "company": "Grubhub",
+    "system": "restaurant recommendations",
+    "constraints": ["delivery radius", "cuisine preferences", "wait times", "dietary restrictions"],
+    "focus_areas": ["location-based services", "preference learning", "multi-armed bandits", "review analysis"]
+  },
+  {
+    "id": 28,
+    "company": "Indeed",
+    "system": "salary prediction",
+    "constraints": ["location factors", "experience levels", "job titles", "data privacy"],
+    "focus_areas": ["regression models", "feature engineering", "market analysis", "confidence intervals"]
+  },
+  {
+    "id": 29,
+    "company": "Shopify",
+    "system": "abandoned cart recovery",
+    "constraints": ["timing optimization", "personalization", "multi-channel", "merchant diversity"],
+    "focus_areas": ["propensity modeling", "causal inference", "email optimization", "customer lifetime value"]
+  },
+  {
+    "id": 30,
+    "company": "Twitch",
+    "system": "stream recommendations",
+    "constraints": ["live content", "viewer retention", "streamer discovery", "chat sentiment"],
+    "focus_areas": ["real-time personalization", "cold start", "community detection", "engagement metrics"]
+  },
+  {
+    "id": 31,
+    "company": "OpenAI",
+    "system": "content safety classifier",
+    "constraints": ["multiple languages", "context understanding", "false positives", "adversarial inputs"],
+    "focus_areas": ["large language models", "few-shot learning", "robustness", "interpretability"]
+  },
+  {
+    "id": 32,
+    "company": "Tesla",
+    "system": "battery degradation prediction",
+    "constraints": ["sensor data", "driving patterns", "environmental factors", "safety margins"],
+    "focus_areas": ["time series analysis", "physics-informed ML", "uncertainty quantification", "edge computing"]
+  },
+  {
+    "id": 33,
+    "company": "Snap",
+    "system": "AR filter recommendation",
+    "constraints": ["visual appeal", "trends", "creator diversity", "computational limits"],
+    "focus_areas": ["computer vision", "trend detection", "user engagement", "creator tools"]
+  },
+  {
+    "id": 34,
+    "company": "Reddit",
+    "system": "comment ranking",
+    "constraints": ["vote manipulation", "discussion quality", "nested threads", "community rules"],
+    "focus_areas": ["graph algorithms", "NLP quality metrics", "brigade detection", "temporal dynamics"]
+  },
+  {
+    "id": 35,
+    "company": "Etsy",
+    "system": "handmade item search",
+    "constraints": ["uniqueness", "seller reliability", "visual similarity", "price fairness"],
+    "focus_areas": ["multimodal search", "seller scoring", "diversity in results", "personalization"]
+  }
+]
