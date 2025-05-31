@@ -93,6 +93,29 @@
 - behavioral.json: 45 questions across competencies
 - ml-theory.json: 40 ML concepts with MLOps connections
 
+#### Decision: Netflix-Specific Interview Preparation
+**Choice:** Immediate focus on Netflix recruiter interview preparation
+**Rationale:**
+- User has upcoming recruiter call with Alice Chiang
+- Netflix interview requires deep culture understanding
+- ML Software Engineer role in Media Algorithms/Eyeline Research is specialized
+- Document-based practice allows thorough preparation
+
+**Implementation Details:**
+- netflix-recruiter-coach.md: Document-based coaching prompt
+- recruiter-interview-questions.md: Comprehensive question bank
+- Integration of Netflix culture memo and job description
+- Focus on culture fit (40-50% of hiring decision)
+
+#### Decision: Document-Based Coaching Over Real-Time
+**Choice:** Generate practice documents rather than chat-based Q&A
+**Rationale:**
+- Allows candidate to take time crafting thoughtful responses
+- Better mimics real interview preparation process
+- Can review and edit answers before feedback
+- Creates tangible practice artifacts
+- More thorough preparation for high-stakes conversation
+
 ## Architectural Principles
 
 1. **Simplicity First:** Avoid over-engineering, focus on daily usability
@@ -101,3 +124,5 @@
 4. **Comprehensive Coverage:** Balance all interview aspects equally
 5. **LLM-Powered:** Use AI for generation and review, not just storage
 6. **Iterative Improvement:** Start simple, add complexity when needed
+7. **Immediate Value:** Address urgent needs (Netflix interview) while building long-term system
+8. **Context-Aware:** Adapt prompts and content for specific opportunities

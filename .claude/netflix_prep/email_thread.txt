@@ -1,0 +1,86 @@
+Jayce Tan <jaycetan@gmail.com>
+Press Play on the Next Chapter, Jayce! 🍿
+5 messages
+Alice Chiang <alicechiang@jobs.netflix.com> Fri, May 16, 2025 at 1:35 PM
+Reply-To: Alice Chiang <alicechiang+m790726315045@jobs.netflix.com>
+To: jaycetan@gmail.com
+Hi Jayce,
+I hope you're doing well! I saw that you previously interviewed with Netflix back in 2021, reaching out to see if now is a
+good time to reconnect? I'm currently hiring a Software Engineer on our Media Algorithms team. You will work closely
+with scientists at the Eyeline Research Team to develop cutting-edge AI/CV/graphics algorithms that will be used by
+studio/content creators. We are looking for MLOps experience and having GPU or CUDA experience would be a big plus!
+Even if you're not interested in exploring new roles right now, happy to connect with you and then revisit this at
+a later time — and if you are considering something new, now is an exciting time to join us.
+Read more about our unique culture.
+Best,
+Alice Chiang
+Technical Recruiting Researcher Data & Insights
+You received this email because you've applied, been referred, attended a event, or expressed interest in working at Netflix.
+This email was sent to jaycetan@gmail.com by Netflix, Los Gatos,CA,USA. Unsubscribe
+Jayce Tan <jaycetan@gmail.com> Tue, May 20, 2025 at 7:52 AM
+To: Alice Chiang <alicechiang+m790726315045@jobs.netflix.com>
+Hi Alice, thanks for reaching out! Hope your week is off to a great start.
+Netflix has always been somewhere I've wanted to work because the values allow employees to work with the most driven
+engineers. This seems like a great fit, I have MLOps experience from both Amazon and Salesforce. I'm totally open to us
+connecting. That being said, in 2021 I missed out on some great opportunities (Netflix included) by not taking the time to
+properly prepare for interviews. It would be ~8 weeks before I feel like I would be ready for a technical interview. It's been
+so long since I've even thought of system design, algorithm, and behavioral interviews. Would this timeframe work for this
+position?
+Also, can you tell me what the interview process would look like and what the onsite requirements are for this team? I've
+been fortunate to work from home for over 5 years now so onsite would be an adjustment.
+Thanks!
+-JT
+[Quoted text hidden]
+Alice Chiang <alicechiang@netflix.com> Tue, May 20, 2025 at 8:19 AM
+To: jaycetan@gmail.com
+Hi Jayce,
+It's great to hear from you. Ideally they'd like someone based out of LA so you can meet in person with our Eyeline team
+when needed, but it's not a strict hybrid schedule.
+Interview Process:
+5/30/25, 11:44 PM Gmail - Press Play on the Next Chapter, Jayce! 🍿
+https://mail.google.com/mail/u/0/?ik=a9437ebc53&view=pt&search=all&permthid=thread-f:1832310791674190582&simpl=msg-f:1832310791674190582&simpl=… 1/3
+1. Recruiter screen
+2. 45 min Manager chat
+3. TPS coding
+4. Virtual Onsite
+On Tue, May 20, 2025 at 7:53AM Jayce Tan <jaycetan+m790727763829@jobs.netflix.com> wrote:
+Hi Alice, thanks for reaching out! Hope your week is off to a great start.
+Netflix has always been somewhere I've wanted to work because the values allow employees to work with the most
+driven engineers. This seems like a great fit, I have MLOps experience from both Amazon and Salesforce. I'm totally
+open to us connecting. That being said, in 2021 I missed out on some great opportunities (Netflix included) by not
+taking the time to properly prepare for interviews. It would be ~8 weeks before I feel like I would be ready for a technical
+interview. It's been so long since I've even thought of system design, algorithm, and behavioral interviews. Would this
+timeframe work for this position?
+Also, can you tell me what the interview process would look like and what the onsite requirements are for this team?
+I've been fortunate to work from home for over 5 years now so onsite would be an adjustment.
+Thanks!
+-JT
+On Fri, May 16, 2025 at 1:35PM Alice Chiang <alicechiang@jobs.netflix.com> wrote:
+[Quoted text hidden]
+--
+Alice Chiang
+Technical Recruiting Researcher
+Netflix Careers
+Interested in Netflix? Read about our culture and strategy here: https://jobs.netflix.com/culture
+Jayce Tan <jaycetan@gmail.com> Wed, May 21, 2025 at 7:05 PM
+To: Alice Chiang <alicechiang@netflix.com>
+Hi Alice,
+Thanks for the details! Being based in LA is perfect. Looking forward to learn more about the specific AI/CV projects and
+ensuring we're both confident it's a great mutual fit.
+Just want to confirm the 8-week timeline doesn't conflict with your hiring schedule. I could actually start the initial rounds
+(recruiter screen and manager chat) sooner if that works better - those conversations would help me prepare more
+effectively for the technical portions.
+Also, what does the TPS coding portion typically focus on?
+Thanks!
+-Jayce
+[Quoted text hidden]
+Alice Chiang <alicechiang@netflix.com> Thu, May 22, 2025 at 8:00 AM
+To: Jayce Tan <jaycetan@gmail.com>
+Hi Jayce,
+The 8 week timeline should work, as long as you can kickstart the first 2 steps that should be fine. Here is my calendar.
+Please take a moment to review our culture memo and be prepared to discuss during our call.
+5/30/25, 11:44 PM Gmail - Press Play on the Next Chapter, Jayce! 🍿
+https://mail.google.com/mail/u/0/?ik=a9437ebc53&view=pt&search=all&permthid=thread-f:1832310791674190582&simpl=msg-f:1832310791674190582&simpl=… 2/3
+[Quoted text hidden]
+5/30/25, 11:44 PM Gmail - Press Play on the Next Chapter, Jayce! 🍿
+https://mail.google.com/mail/u/0/?ik=a9437ebc53&view=pt&search=all&permthid=thread-f:1832310791674190582&simpl=msg-f:1832310791674190582&simpl=… 3/3
