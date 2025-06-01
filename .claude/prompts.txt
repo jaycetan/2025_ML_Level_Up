@@ -1,5 +1,10 @@
-in the .claude/prompts/daily-interview-prep-generator.md, are we providing instruction to the agent where to source the questions? if so, how? 
+you should always give me the feedback in a document. leave a place at the bottom for us to chat. create a template so that we can have some back and fourth. put the practice session and session summaries in their own dedicated dir. 
 
+based on how this went feel free to update any project docs. be sure to give me a clear explanation why you felt the change was necessary after it is done. 
+netflix_prep/promp_netflix-recruiter-coach.md
+netflix_prep/recruiter-interview-questions.md
+
+dont forget to update memory bank. 
 
 ============
 

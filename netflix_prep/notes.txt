@@ -1,0 +1,10 @@
+- AI/CV 
+Artificial Intelligence / Computer Vision. 
+
+Computer vision is:
+-object detection
+-image gen or maniuplation
+-visual effects automation
+-scene understanding 
+-animation tools
+

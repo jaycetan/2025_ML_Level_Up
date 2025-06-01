@@ -2,6 +2,26 @@
 
 Based on Netflix Culture Memo and your specific ML Software Engineer role in Media Algorithms/Eyeline Research.
 
+## ⚡ CRITICAL INSIGHTS FROM SESSION 1
+
+### Key Learnings from Practice:
+1. **Brevity is CRUCIAL** - Recruiter answers should be 30-60 seconds MAX
+2. **Always use STAR-Lite format**: Situation (5s) → Task (5s) → Action (15s) → Result+Netflix (10s)
+3. **Have 4 "pocket stories" ready** that can demonstrate multiple values:
+   - The Risky Project (Uncomfortably Exciting)
+   - The Collaboration Win (Selflessness, Dream Team)
+   - The Learning Curve (Curiosity, Great and Always Better)
+   - The Innovation Push (Courage, Creativity)
+4. **Bridge every answer**: Personal → Work Example → Role Application
+5. **Use Netflix terminology naturally**: "farming for dissent", "context not control", "stunning colleagues"
+
+### Common Pitfalls to Avoid:
+- ❌ Philosophical answers without concrete examples
+- ❌ Talking for 2+ minutes (recruiter calls are time-limited)
+- ❌ Missing the creative/studio angle of the role
+- ❌ Not completing thoughts or trailing off
+- ❌ Forgetting to connect to specific Netflix values
+
 ## Netflix Culture & Values Questions
 
 ### 1. Four Core Principles Understanding
@@ -172,11 +192,15 @@ Based on Netflix Culture Memo and your specific ML Software Engineer role in Med
 
 ## Key Messages to Convey
 
-### Your Value Proposition
+### Your Value Proposition (30-Second Elevator Pitch)
+"I bring proven MLOps expertise from Amazon and Salesforce, where I've built scalable ML pipelines from research to production. I thrive in Netflix's 'People Over Process' culture - at Salesforce, I led end-to-end pipeline development with minimal oversight, delivering a system now used company-wide. What excites me about Media Algorithms is applying this experience to empower content creators with cutting-edge AI/CV tools, not just optimizing business metrics. My 2021 interview taught me the importance of thorough preparation, which embodies 'Great and Always Better' - I'm dedicating 8 weeks to ensure I can contribute from day one."
+
+### Core Messages to Weave In:
 - **MLOps Production Experience**: Scalable systems, distributed training, cloud infrastructure
 - **Culture Alignment**: Thrive under "People Over Process," comfortable with high-performance environment
 - **Technical Bridge Builder**: Can translate research into production systems
 - **Growth Mindset**: 2021 experience taught importance of preparation, embracing "Great and Always Better"
+- **Creative Impact**: Excited to move from business metrics to empowering storytellers
 
 ### Netflix Culture Fluency to Demonstrate
 - **Understand the four principles** and can give examples of living them
@@ -198,13 +222,24 @@ Based on Netflix Culture Memo and your specific ML Software Engineer role in Med
 - **Seeming uncomfortable** with high-performance, candid feedback culture
 - **Appearing unprepared** for the "Uncomfortably Exciting" nature of the work
 
-## Preparation Checklist
-- [ ] **Memorize the 4 core principles** and 8 values with personal examples
-- [ ] **Understand Media Algorithms vs. Eyeline Research** team distinction
-- [ ] **Prepare 2-minute pitch** connecting MLOps background to studio AI/CV tools
-- [ ] **Practice "Keeper Test" confidence** - articulate your unique value
-- [ ] **Research AI/CV applications** in content creation (not consumer-facing)
-- [ ] **Prepare specific questions** about research-to-production collaboration
+## Updated Preparation Checklist (Based on Session 1)
+- [ ] **Create Story Bank**: Write out 4 STAR-Lite stories (30-45 seconds each)
+- [ ] **Practice Timing**: Record yourself - every answer under 60 seconds
+- [ ] **Memorize Value Soundbites**:
+  - "I thrive working with stunning colleagues" (Dream Team)
+  - "I appreciate the freedom to make smart decisions" (People Over Process)
+  - "I'm energized by ambitious challenges" (Uncomfortably Exciting)
+  - "I'm never satisfied with good enough" (Great and Always Better)
+- [ ] **Research Specifics**:
+  - ComfyUI and Stable Diffusion in production
+  - Difference between VFX and CV applications
+  - 3 ways AI could help content creators
+- [ ] **Netflix Tech Deep Dive**:
+  - Read 2 Netflix Tech Blog posts about ML/AI
+  - Watch 1 Netflix engineering talk on YouTube
+  - Note specific projects/tools mentioned
+- [ ] **Role Clarity**: Can explain in 30 seconds why studio AI/CV excites you more than traditional MLOps
+- [ ] **Culture Fluency Test**: Can naturally use 3-4 Netflix terms in conversation
 
 ## Netflix Values Reference
 
