@@ -9,14 +9,12 @@
 
 ### Context (When & Where)
 **Company:** Salesforce
-**Timeframe:** [Month/Year]  
-**Your Role:** [Your title/level]  
-**Team Size:** [Number of people affected]  
+**Timeframe:** 2022    
 
 ### The Situation (What was at stake?)
-- **The safe path was:** [What everyone expected you to do]
-- **The risky path was:** [What you chose to do instead]
-- **What could go wrong:** [Specific risks/consequences]
+- **The safe path was:** Continue the process as is. 
+- **The risky path was:** Create a SOP for each on-call person to write and present at the end of each sprint. 
+- **What could go wrong:** Other engineers would 
 
 ### Your Actions (What YOU specifically did)
 1. [First bold action you took]
@@ -42,8 +40,7 @@
 
 ### Context (When & Where)
 **Company:** [Amazon/Salesforce]  
-**Timeframe:** [Month/Year]  
-**Your Role:** [Your title/level]  
+**Timeframe:** [Month/Year]    
 **Stakeholders:** [Who was involved - especially if senior]
 
 ### The Situation (What was the disagreement?)
@@ -75,8 +72,7 @@
 
 ### Context (When & Where)
 **Company:** [Amazon/Salesforce]  
-**Timeframe:** [Month/Year]  
-**Your Role:** [Your title/level]  
+**Timeframe:** [Month/Year]    
 **The Challenge:** [What you didn't know]
 
 ### The Situation (Why you needed to learn)
@@ -109,8 +105,7 @@
 
 ### Context (When & Where)
 **Company:** [Amazon/Salesforce]  
-**Timeframe:** [Month/Year]  
-**Your Role:** [Your title/level]  
+**Timeframe:** [Month/Year]    
 **Team Dynamic:** [The situation with your team]
 
 ### The Situation (The team need)
