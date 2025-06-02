@@ -1,3 +1,30 @@
+
+delete these files
+netflix_prep/practice_sessions/conflict-story-options.md
+netflix_prep/practice_sessions/story-practice-notes.md
+
+merge them into the netflix_prep/practice_sessions/four-power-stories-template.md:61~99
+
+==========
+
+i thought of a story where we were building a data transformer algorithm and dfs was required to traverse the taxonomy graph. steve wanted absolute separation of state and controller but because 
+of the deeply nested objects leo proposed a solution where there was some iteration in the state object. it came to me to implement and i went with what leo had documented unknowingly. when steve 
+we all reviewed the code, steve objected to the implementation but I was confused. What he was asking was going to increase the complexity and legibility of the code. i understand and appreciate 
+the design pattern but in the current state it is feature complete and has minimal risk. in the end, he felt more strongly about it than i did so i went with his guidance. in this instance i dont 
+think it matters who's wrong or right. salesforce has a value of disagree and commit. although i disagreed i committed to doing good work and owning the task at hand. use this as the example 
+story. replace the current options with variations of this.
+
+
+==========
+
+
+i have included my resume here. only make the absolutely necessary changes to the memory bank and the docs in netflix_prep dir. 
+.claude/docs/Resume_JayceTan_2025.md
+
+based on my experience at salesforce give me three options of stories to use for netflix_prep/practice_sessions/four-power-stories-template.md:62~63 section. steve is my lead engineer. leo is the other senior. and we have 3 other engineers. steve and i have disagreed lot but i cant think of a good story. 
+.claude/docs/Resume_JayceTan_2025.md:20~28
+==========
+
 you should always give me the feedback in a document. leave a place at the bottom for us to chat. create a template so that we can have some back and fourth. put the practice session and session summaries in their own dedicated dir. 
 
 based on how this went feel free to update any project docs. be sure to give me a clear explanation why you felt the change was necessary after it is done. 

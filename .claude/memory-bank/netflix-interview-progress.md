@@ -1,5 +1,39 @@
 # Netflix Interview Progress Tracker
 
+## Session 2 - June 2, 2025
+
+### Completed Today:
+1. **All 4 Power Stories Refined:**
+   - Risk Story: On-call report system (50% tech debt reduction)
+   - Conflict Story: DFS algorithm debate with Steve ("disagree and commit")
+   - Learning Story: AWS Glue/Spark/Scala mastery (3 techs in 2 weeks)
+   - Team Story: Scrum Lead sacrifice (2.5 years, 30% velocity increase)
+
+2. **Study Guides Created:**
+   - `netflix-stories-study-guide.md` - All 4 stories with practice tips
+   - `netflix-culture-job-study-guide.md` - Culture values mapped to stories
+
+3. **Key Improvements:**
+   - Stories now 45-60 seconds (down from 2+ minutes)
+   - Concrete metrics in every story
+   - Natural Netflix culture integration
+   - Clear opening hooks for each story
+
+### Prep Plan:
+- **Monday:** 90 min morning - record stories 5x each
+- **Tuesday:** 90 min morning + potential evening practice
+- **Wednesday:** 90 min final polish before interview
+
+### Technical Details Refined:
+- Adjusted data volume claim from 5TB to 500GB-1TB/month (more realistic)
+- Learning Story: Clarified timeline - 2 weeks to proposal, 16 weeks total project
+- Team Story: Changed "doubling workload" to "increasing workload"
+
+### Psychological Support:
+- Addressed pre-interview nervousness
+- Reframed anxiety as excitement for performance
+- Created structured practice plan to build confidence
+
 ## Session 1 - May 31, 2025
 
 ### Performance Summary
@@ -38,6 +72,9 @@
 - Wants to avoid STAR method formality
 - Recognizes need for seamless culture discussion
 - Self-aware about preparation gaps from 2021
+- Salesforce: Senior MLOps Engineer (SMTS) - 500GB-1TB/month LLM pipelines, 99.99% availability
+- Key colleagues: Steve (lead engineer - frequent disagreements), Leo (senior engineer)
+- Notable achievements: 30% latency reduction, 99.9% validation accuracy
 
 ### Coach Observations
 - Strong self-awareness and growth mindset
@@ -76,3 +113,23 @@
 - Creative tools enthusiasm
 - Netflix terminology fluency
 - Maintaining energy while being concise
+
+## Story Development Progress - Updated June 2, 2025
+
+### Completed Stories
+1. **Risk Story**: On-call report implementation (50% tech debt reduction)
+2. **Conflict Story**: DFS taxonomy transformer - disagreed with Steve on state/controller separation
+3. **Learning Story**: AWS Glue/Spark/Scala at Amazon (2 weeks to learn, 16 weeks to deliver)
+4. **Team Story**: Scrum Lead at Salesforce (2.5 years, 30% velocity increase)
+
+### Key Story Themes
+- Risk Story: Leading by example, improving team processes
+- Conflict Story: "Disagree and commit", balancing pragmatism vs. architectural purity
+- Learning Story: Rapid skill acquisition under pressure
+- Team Story: Selfless leadership without recognition
+
+### Story Details
+- **Risk Story**: Created mandatory on-call reports, team brought back practice after manager stopped it
+- **Conflict Story**: Steve now Principal Engineer, maintained great relationship
+- **Learning Story**: Inherited broken ETL pipeline during holidays, presented proposal in 2 weeks
+- **Team Story**: Took unglamorous role when lead went on paternity leave
